@@ -1,0 +1,109 @@
+Evasão – 1º semestre de 2009,,
+"Relação curso, nome de estudantes, forma de evasão e email",,
+NOME_CURSO,Total de estudantes,Ocorrência/forma de evasão
+CURSO DE CIENCIA DA COMPUTACAO,10,Abandono=6
+,,Cancelamento=1
+,,Transferido=3
+CURSO DE ENGENHARIA CIVIL,11,Abandono=4
+,,Cancelamento=3
+,,Transferido=4
+CURSO DE ENGENHARIA ELETRICA,7,Abandono=5
+,,Transferido=2
+CURSO DE ENGENHARIA MECANICA,1,Cancelamento=1
+CURSO DE ENGENHARIA DE ALIMENTOS,7,Abandono=2
+,,Transferência=4
+,,Transferido=1
+CURSO DE ENGENHARIA DE COMPUTACAO,8,Abandono=5
+,,Cancelamento=1
+,,Transferência=2
+CURSO DE ENGENHARIA DE PRODUCAO,6,Abandono=2
+,,Cancelamento=1
+,,Classificado e não matriculado=2
+,,Transferência=1
+CURSO DE ENGENHARIA QUIMICA,11,Abandono=4
+,,Cancelamento=2
+,,Classificado e não matriculado=1
+,,Transferido=4
+CURSO DE ENGENHARIA DE ENERGIAS RENOVAVEIS E AMBIENTE,9,Abandono=4
+,,Cancelamento=4
+,,Transferência=1
+LICENCIATURA EM LETRAS-LÍNGUA PORTUGUESA E RESPECTIVAS LITERATURAS,1,Cancelamento=1
+CURSO DE LICENCIATURA EM FISICA,8,Abandono=5
+,,Cancelamento=2
+,,Transferido=1
+CURSO DE LICENCIATURA EM MATEMATICA,13,Abandono=8
+,,Cancelamento=3
+,,Classificado e não matriculado=1
+,,Transferido=1
+CURSO DE LICENCIATURA EM LETRAS - PORTUGUES E ESPANHOL,10,Abandono=8
+,,Cancelamento=1
+,,Transferência=1
+CURSO DE LICENCIATURA EM LETRAS - PORTUGUES E INGLES,5,Abandono=3
+,,Cancelamento=1
+,,Transferência=1
+CURSO DE LICENCIATURA EM QUIMICA,6,Abandono=3
+,,Cancelamento=2
+,,Transferência=1
+CURSO DE GEOFISICA,9,Abandono=4
+,,Cancelamento=5
+CURSO SUPERIOR DE TECNOLOGIA EM AGRONEGÓCIOS,1,Cancelamento=1
+CURSO DE ZOOTECNIA,5,Abandono=4
+,,Desligamento=1
+REGIME ESPECIAL DE GRADUACAO,5,Abandono=1
+,,Sem matrícula=4
+CURSO DE AGRONOMIA,4,Abandono=4
+CURSO DE LICENCIATURA EM LETRAS - ESPANHOL - NOTURNO,6,Abandono=2
+,,Falecimento=1
+,,Transferido=3
+CURSO DE LICENCIATURA EM PEDAGOGIA - DIURNO,5,Abandono=4
+,,Transferido=1
+CURSO DE LICENCIATURA EM PEDAGOGIA - NOTURNO,9,Abandono=9
+CURSO DE CIENCIAS SOCIAIS - CIENCIA POLITICA,1,Cancelamento=1
+CURSO DE JORNALISMO,9,Abandono=3
+,,Cancelamento=2
+,,Falecimento=1
+,,Transferência=3
+CURSO DE PUBLICIDADE E PROPAGANDA,7,Abandono=6
+,,Transferência=1
+CURSO DE SERVICO SOCIAL,2,Abandono=1
+,,Transferência=1
+CURSO DE CIENCIAS BIOLOGICAS - LICENCIATURA PLENA,1,Transferido=1
+CURSO DE CIENCIAS BIOLOGICAS - NUCLEO COMUM,5,Abandono=5
+CURSO DE CIENCIAS BIOLOGICAS - BACHARELADO,2,Cancelamento=2
+CURSO DE BIOTECNOLOGIA,1,Cancelamento=1
+CURSO DE ENGENHARIA FLORESTAL,13,Abandono=11
+,,Cancelamento=2
+CURSO DE GESTAO AMBIENTAL,16,Abandono=15
+,,Cancelamento=1
+CURSO DE ADMINISTRACAO - COMERCIO EXTERIOR - DIURNO,3,Abandono=2
+,,Cancelamento=1
+CURSO DE ADMINISTRACAO - COMERCIO EXTERIOR - NOTURNO,2,Abandono=1
+,,Transferido=1
+CURSO DE ADMINISTRACAO - EMPRESAS - NOTURNO,9,Abandono=8
+,,Transferido=1
+CURSO DE ADMINISTRACAO - NOTURNO,7,Abandono=6
+,,Cancelamento=1
+CURSO SUPERIOR DE TECNOLOGIA EM GESTAO PUBLICA,1,Cancelamento=1
+CURSO DE RELACOES INTERNACIONAIS,2,Cancelamento=2
+CURSO DE EDUCACAO FISICA,4,Abandono=3
+,,Cancelamento=1
+CURSO DE ENFERMAGEM,17,Abandono=10
+,,Cancelamento=1
+,,Transferência=1
+,,Transferido=5
+CURSO DE FARMACIA,9,Abandono=7
+,,Cancelamento=1
+,,Transferido=1
+CURSO DE FISIOTERAPIA,14,Abandono=7
+,,Cancelamento=1
+,,Transferência=2
+,,Transferido=4
+CURSO DE MEDICINA VETERINARIA,1,Abandono=1
+TOTAL,283,Abandono
+,,Cancelamento
+,,Classificado e não matriculado
+,,Desligamento
+,,Falecimento
+,,Sem matrícula
+,,Transferência
+,,Transferido
